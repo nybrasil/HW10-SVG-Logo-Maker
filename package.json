@@ -1,0 +1,20 @@
+// package.json
+{
+    "name": "svg-logo-maker",
+    "version": "1.0.0",
+    "description": "A Node.js command-line application to generate SVG logos",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^29.1.2"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
